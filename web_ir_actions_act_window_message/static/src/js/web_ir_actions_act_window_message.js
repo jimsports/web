@@ -30,8 +30,10 @@ odoo.define("web.web_ir_actions_act_window_message", function (require) {
                         if (controller && controller.widget) {
                             controller.widget.reload();
                         }
+                        // Close dialog
+                        this.close();
                     },
-                    classes: "btn-default",
+                    classes: action.close_button_classes || "btn-default"
                 });
             }
 
