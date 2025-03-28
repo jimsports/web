@@ -48,11 +48,11 @@ addon | version | maintainers | summary
 [web_field_required_invisible_manager](web_field_required_invisible_manager/) | 14.0.2.3.3 | [![ilyasProgrammer](https://github.com/ilyasProgrammer.png?size=30px)](https://github.com/ilyasProgrammer) | Web Field Required Invisible Readonly Managerr
 [web_fix_modules_load](web_fix_modules_load/) | 14.0.1.0.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Fix translations loading from frontend with many modules
 [web_group_expand](web_group_expand/) | 14.0.1.0.0 |  | Group Expand Buttons
-[web_ir_actions_act_multi](web_ir_actions_act_multi/) | 14.0.1.0.1 |  | Enables triggering of more than one action on ActionManager
+[web_ir_actions_act_multi](web_ir_actions_act_multi/) | 14.0.1.0.2 |  | Enables triggering of more than one action on ActionManager
 [web_ir_actions_act_view_reload](web_ir_actions_act_view_reload/) | 14.0.1.0.2 |  | Enables reload of the current view via ActionManager
 [web_ir_actions_act_window_message](web_ir_actions_act_window_message/) | 14.0.1.0.1 |  | Show a message box to users
 [web_listview_range_select](web_listview_range_select/) | 14.0.1.0.0 |  | Enables selecting a range of records using the shift key
-[web_m2x_options](web_m2x_options/) | 14.0.1.1.2 |  | web_m2x_options
+[web_m2x_options](web_m2x_options/) | 14.0.1.2.0 |  | web_m2x_options
 [web_m2x_options_manager](web_m2x_options_manager/) | 14.0.1.2.0 |  | Adds an interface to manage the "Create" and "Create and Edit" options for specific models and fields.
 [web_no_bubble](web_no_bubble/) | 14.0.1.1.0 |  | Remove the bubbles from the web interface
 [web_notify](web_notify/) | 14.0.1.1.0 |  | Send notification messages to user
@@ -72,7 +72,7 @@ addon | version | maintainers | summary
 [web_tooltip_field](web_tooltip_field/) | 14.0.1.0.0 | [![cuongnmtm](https://github.com/cuongnmtm.png?size=30px)](https://github.com/cuongnmtm) | Showing a Field ToolTip in Odoo
 [web_tree_dynamic_colored_field](web_tree_dynamic_colored_field/) | 14.0.1.0.0 |  | Allows you to dynamically color fields on tree views
 [web_tree_image_tooltip](web_tree_image_tooltip/) | 14.0.1.0.0 |  | Show images in tree views via tooltip
-[web_tree_many2one_clickable](web_tree_many2one_clickable/) | 14.0.1.0.2 |  | Open the linked resource when clicking on their name
+[web_tree_many2one_clickable](web_tree_many2one_clickable/) | 14.0.1.0.3 |  | Open the linked resource when clicking on their name
 [web_view_calendar_list](web_view_calendar_list/) | 14.0.1.0.0 |  | Show calendars as a List
 [web_widget_bokeh_chart](web_widget_bokeh_chart/) | 14.0.2.3.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | This widget allows to display charts using Bokeh library.
 [web_widget_char_size](web_widget_char_size/) | 14.0.1.0.1 |  | Add size option to Char widget
@@ -88,6 +88,7 @@ addon | version | maintainers | summary
 [web_widget_model_viewer](web_widget_model_viewer/) | 14.0.1.0.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Easily display interactive 3D models on the web & in AR
 [web_widget_mpld3_chart](web_widget_mpld3_chart/) | 14.0.1.0.0 |  | This widget allows to display charts using MPLD3 library.
 [web_widget_numeric_step](web_widget_numeric_step/) | 14.0.1.0.0 |  | Web Widget Numeric Step
+[web_widget_one2many_tree_line_duplicate](web_widget_one2many_tree_line_duplicate/) | 14.0.1.0.0 |  | Web Widget One2many Tree Line Duplicate
 [web_widget_open_tab](web_widget_open_tab/) | 14.0.1.0.0 |  | Allow to open record from trees on new tab from tree views
 [web_widget_plotly_chart](web_widget_plotly_chart/) | 14.0.1.0.0 | [![robyf70](https://github.com/robyf70.png?size=30px)](https://github.com/robyf70) | Allow to draw plotly charts.
 [web_widget_text_markdown](web_widget_text_markdown/) | 14.0.1.0.0 |  | Widget to text fields that adds markdown support
